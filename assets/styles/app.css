@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;
+
+}
+
+
+.map_france path {
+    fill: indigo;
+    stroke: cornflowerblue;
+    stroke-width: 1px;
+    transition: fill .5s;
+}
+
+.map_france path:hover{
+    fill: white;
+    transition: fill .5s;
+
+}
+
+.cont{
+
+    margin: 200px auto;
+    width: 1000px;
+
+
+}
